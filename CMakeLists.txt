@@ -29,6 +29,7 @@ find_package(Qt6 REQUIRED COMPONENTS
     Gui
     Widgets
     WebEngineWidgets
+    WebEngineCore
 )
 
 # ---------------------------------------------------------
@@ -67,6 +68,7 @@ target_link_libraries(chatgpt-desktop-unix
         Qt6::Gui
         Qt6::Widgets
         Qt6::WebEngineWidgets
+    Qt6::WebEngineCore
 )
 
 # ---------------------------------------------------------
