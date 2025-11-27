@@ -4,7 +4,7 @@ Unofficial ChatGPT desktop application built with Qt 6. Currently supports Linux
 
 ## Upcoming Plans
 
-- Cookies support (to keep ChatGPT account logged in permanently)  
+- Cookies support (to keep ChatGPT account logged in permanently) (done)
 - Add support for [sora.chatgpt.com](https://sora.chatgpt.com) for generating videos  
 - Add support for OpenAI API websites and Playground  
 - Qt5 support  
